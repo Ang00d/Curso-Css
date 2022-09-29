@@ -1,0 +1,14 @@
+-SELECTORES CSS
+    
+    Universal: *(con el asterisco toma todo sin exepción)
+    De tipo: h1, h2, h3, b, p, etc.
+    Clases: .(nombre de la clase)
+    Id: #(nombre de la id)
+    Atributo: [(nombre del atributo dentro de los corchetes)]
+    Descendencia: editar atributos dentro de clases o tipos.
+    pseudoclases: despues del nombre de la clase o tipo agregar
+                  un ":hover" lo que hace es que al pasar el mause 
+                  por ensima lo modifique en el momento
+
+
+

@@ -1,0 +1,25 @@
+h1{
+    color: rgb(122, 175, 69);
+}
+.titulo1{
+   color: rgb(228, 34, 163);
+}
+#soy{
+    color: crimson;
+}
+[gei="si"]{
+    color: blue;
+}
+.descendencia{
+    color: darksalmon;
+}
+.descendencia p{
+    color: hotpink;
+}
+.descendencia span{
+    color: brown;
+}
+.pilin:hover{
+    color: magenta;
+
+}
